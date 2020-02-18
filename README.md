@@ -2,7 +2,7 @@
 
 > Pragmatic recommendations based on clean coding principles for teams working on TypeScript/JavaScript web application.
 
-A Git repository template implementing these recommendations is available at [thekarel/project-template](https://github.com/thekarel/project-template/)
+An example implementation of these recommendations is available at [thekarel/best-practices-example](https://github.com/thekarel/best-practices-example)
 
 ## Principles <a name="principles"></a>
 
@@ -32,7 +32,7 @@ This approach is a powerful concept and the key to a maintainable and scalable c
 
 My advice: never compromise on architecture. It's fine to be pragmatic and take shortcuts in any other areas. But you need a solid foundation for your system to grow and scale. It's virtually impossible to retro-fit this later.
 
-Implementing a clean architecture is the same effort as implementing a convoluted one. It's a habit that is easy to pick up. [Use a template based on these concepts](https://github.com/thekarel/project-template).
+Implementing a clean architecture is the same effort as implementing a convoluted one. It's a habit that is easy to pick up. [See an example of these concepts here](https://github.com/thekarel/best-practices-example).
 
 The layers are [represented as modules](#workspace) in the codebase.
 
@@ -154,7 +154,7 @@ Use a [type generator](https://github.com/dotansimha/graphql-code-generator) to 
 
 There are many great UI libraries and frameworks today. React is suggested here because it's a *declarative* and *functional* solution.
 
-See the [project template](https://github.com/thekarel/project-template) for examples.
+See the [thekarel/best-practices-example](https://github.com/thekarel/best-practices-example) for examples.
 
 ## TypeScript
 
@@ -293,7 +293,7 @@ The issues that can suck away valuable time are:
 
 The way to avoid surprises is to enforce standard code formatting rules and automate the local formatting of source code. The rules should live in the codebase, and every pull request should check against them in the CI step (not a git hook which can be easily sidestepped and is redundant).
 
-The way to avoid debates is to decide on formatting at the beginning of the project. These should not change unless there are serious technical reasons. Use a [template](https://github.com/thekarel/project-template) to speed things up.
+The way to avoid debates is to decide on formatting at the beginning of the project. These should not change unless there are serious technical reasons. Use an [example](https://github.com/thekarel/best-practices-example) to speed things up.
 
 Formatting rule changes should be global: the whole codebase needs to change in one go (one PR). Otherwise, it just increases the inconsistency.
 
@@ -383,7 +383,7 @@ The whole stack lives in one place. When you need to change [multiple layers](#a
 
 No need to bother about [version numbers](#versioning), things keep working together.
 
-You can solve tooling at once, adding new modules later will instantly take advantage of it, no extra steps required. Check out how [the template](https://github.com/thekarel/project-template) handles Jest testing, Prettier and tsc checks for example.
+You can solve tooling at once, adding new modules later will instantly take advantage of it, no extra steps required. Check out how [this example](https://github.com/thekarel/best-practices-example) handles Jest testing, Prettier and tsc checks.
 
 <a name='manyRepoDisadvantage'></a> On the other hand, multiple repos  seem to present some disadvantages.
 
