@@ -1,8 +1,4 @@
-# BEST PRACTICES
-
-> Pragmatic recommendations based on clean coding principles for teams working on TypeScript/JavaScript web application.
-
-An example implementation of these recommendations is available at [thekarel/best-practices-example](https://github.com/thekarel/best-practices-example)
+# Summary​
 
 * [Principles](principles.md)
 * [Architecture](architecture.md)
@@ -20,5 +16,3 @@ An example implementation of these recommendations is available at [thekarel/bes
 * [Logging](logging.md)
 * [Code comments](comments.md)
 * [Testing](testing.md)
-
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
