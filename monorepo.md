@@ -4,7 +4,7 @@ Start with a single code repository for the whole project (not the entire compan
 
 There is only a single repo to know. Only one address, one `git clone`, one `git pull`, one `git push`, one `yarn install`, one README to read, one place to raise PRs, ... and so on - it's simpler, quicker, easier for everyone.
 
-The whole stack lives in one place. When you need to change [multiple layers](architecture.md) at the same time, they are all there, and they can change at once. The codebase never gets out of sync.
+The whole stack lives in one place. When you need to change [multiple layers](./architecture/architecture.md) at the same time, they are all there, and they can change at once. The codebase never gets out of sync.
 
 No need to bother about [version numbers](versioning.md), things keep working together.
 

@@ -2,6 +2,8 @@
 
 Name things for humans, not for computers. People care, computers don't.
 
+> The rule of thumb is this: write it down in English then camelCase it.
+
 Use descriptive names for types, classes, variables, etc.: they should be short, to the point and precise.
 
 Name things as they are in the business language. It makes coming up with names and communicating with stakeholders easier.
@@ -23,8 +25,6 @@ For this reason, interfaces and types do not need a particular prefix/suffix add
 Make the units visible. Say when an amount is in seconds (`timeSeconds` vs `time`), for example.
 
 Don't make the names too long (hard to type) or too short (hard to read and meaningless).
-
-The rule of thumb is: write it down in English then camelCase it.
 
 ### File names
 
