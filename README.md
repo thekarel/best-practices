@@ -12,9 +12,9 @@ At the basic level, this document can serve as a blueprint for groups and leads 
 
 Even without tailoring to your particular situation, these ideas can make software development more efficient and more enjoyable.
 
-The [basic principles](./principles.md) can guide you when making day to day decisions. You can assess how changes align with the business goals, the social nature of software development, the protection of your team's attention capital and the need for simplicity.
+The [basic principles](./principles/principles.md) can guide you when making day to day decisions. You can assess how changes align with the business goals, the social nature of software development, the protection of your team's attention capital and the need for simplicity.
 
-This document promotes a very business-domain centric view of software. Explicitly separating your codebase to align with the business thinking will help with maintainability immensely. Such [architecture](./architecture/architecture.md) aligns nicely with the separation of concerns too. Writing and reading your source code will become easier.
+This document promotes a very business-domain centric view of software. Explicitly separating parts of your codebase to follow the business thinking will help with maintainability immensely. Such [architecture](./architecture/architecture.md) aligns nicely with the separation of concerns too. Writing and reading your source code will become easier.
 
 There are many ways to solve a problem, and this is especially true in today's flourishing JavaScript ecosystem. At the same time, I believe that not all solutions are equally beneficial to your team or the product you're building. I've collected various ideas about structural decisions (such as monorepo, monolith), the source code (formatting, folder structure, and so on) and some more specific tools (logging, git). These ideas were all selected and adjusted to align with the basic principles mentioned before.
 
@@ -22,10 +22,12 @@ There is a separate section dedicated to [testing](./testing/purpose.md). The ai
 
 The ideas presented here [are not all new](resources.md). What I've tried to do is to show them pragmatically, in the context of modern enterprise web app development.
 
+Finally, this document is not a replacement for knowledge of programming languages. The assumption is that you are a competent JavaScript developer and are comfortable using the tools and techniques mentioned here.
 
 ## The Big Picture
 
-* [Principles](principles.md)
+* [Principles](principles/principles.md)
+    * [Software engineers solve business problems, code is a means not a goal](principles/business.md)
 * [Architecture](architecture/architecture.md)
     * [Domain](architecture/domain.md)
     * [Services](architecture/services.md)

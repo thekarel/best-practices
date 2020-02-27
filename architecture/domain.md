@@ -16,6 +16,6 @@ At the most basic level, you can implement rules as pure functions: they take th
 
 When looking at the domain module one needs to be able to understand what kind of "things" are there in the system, how they look like, what kind of properties they can have.
 
-The domain module is the central source of truth, and this aligns with the principle of solving business problems first.
+The domain module is the central source of truth, and this aligns with the principle of [solving business problems first](../principles/business.md).
 
 The domain will not import anything from the other layers. Its API is used almost exclusively by the services.

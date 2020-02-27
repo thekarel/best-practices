@@ -2,7 +2,7 @@
 
 ### The context
 
-According to our first principle, the codebase should primarily reflect the business domain. Frameworks and libraries are secondary considerations - implementation details.
+According to [our first principle](principles/business.md), the codebase should primarily reflect the business domain. Frameworks and libraries are secondary considerations - implementation details.
 
 Folders and files are organized first around the entities that are manipulated. Proper names convey the purpose of the application: what can I do with it?
 

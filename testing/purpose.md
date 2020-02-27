@@ -4,7 +4,7 @@ The purpose of testing is to ensure the product works according to its business 
 
 Testing is crucial. It is also a convoluted topic and can quickly turn into a counterproductive time sink.
 
-Keeping the goal of testing and the [core principles](../principles.md) in mind, I suggest the following pragmatic approach.
+Keeping the goal of testing and the [core principles](../principles/principles.md) in mind, I suggest the following pragmatic approach.
 
 Implement three types of automated tests, in order of importance:
 
