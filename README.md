@@ -27,8 +27,8 @@ Finally, this document is not a replacement for knowledge of programming languag
 ## The Big Picture
 
 * [Principles](principles/principles.md)
-    * [Software engineers solve business problems, code is a means not a goal](principles/business.md)
-    * [Programming is a social activity, source code is communication](principles/social.md)
+    * [Software engineers solve business problems](principles/business.md)
+    * [Programming is a social activity](principles/social.md)
 * [Architecture](architecture/architecture.md)
     * [Domain](architecture/domain.md)
     * [Services](architecture/services.md)
