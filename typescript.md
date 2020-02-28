@@ -18,4 +18,6 @@ Honestly, it feels reckless to refuse such a good deal.
 
 Use TS in strict mode. Otherwise, there's always an excuse to skip typing.
 
-Type safety only works in our codebase. Validating runtime data is the responsibility of the services. If there is end-to-end type-safety, the Graph also plays a part.
+Only use `any` in exceptional cases.
+
+Type safety only works in our codebase. Validating runtime data is the responsibility of [the services](architecture/services.md). If there is end-to-end type-safety, [the Graph](architecture/http.md) also plays a part.
