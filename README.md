@@ -28,6 +28,7 @@ Finally, this document is not a replacement for knowledge of programming languag
 
 * [Principles](principles/principles.md)
     * [Software engineers solve business problems, code is a means not a goal](principles/business.md)
+    * [Programming is a social activity, source code is communication](principles/social.md)
 * [Architecture](architecture/architecture.md)
     * [Domain](architecture/domain.md)
     * [Services](architecture/services.md)
@@ -71,4 +72,4 @@ Finally, this document is not a replacement for knowledge of programming languag
 
 * [Resources](resources.md)
 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
