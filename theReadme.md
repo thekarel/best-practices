@@ -4,7 +4,7 @@ Create a top-level README and make it the entry point for developers, so they ca
 
 Ask new starters to begin with reading this README, and in turn, it should provide enough information to get started.
 
-Write as little as possible. People don't read, they scan, and very few are interested in reading a README. Developers will look for keywords and code blocks to copy. Don't let important information get lost in the sea of words. Don't waste attention.
+Write as little as possible. People don't read, they scan, and very few are interested in reading a README. Developers will look for keywords and code blocks to copy. Don't let important information get lost in the sea of words. [Don't waste attention](principles/attention.md).
 
 Few things scream neglect as an outdated README. The less you write, the less will become obsolete tomorrow.
 

@@ -24,7 +24,7 @@ A regular question is where to store UI components that are shared across all do
 
 Do not add `index` files to folders. This practice has several drawbacks:
 
-* It needs to be done manually, which is a drain on attention and energy (no matter how small it appears)
+* It needs to be done manually, which is a drain on [attention](principles/attention.md) and energy (no matter how small it appears)
 * It's just another thing to remember
 * Makes refactoring harder, as you'll need to edit the re-exports
 * Makes moving modules around harder

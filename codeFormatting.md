@@ -6,7 +6,7 @@ Still, these questions need to be settled once, preferably early and for good.
 
 The issues that can suck away valuable time are:
 
-* surprises due to inconsistencies (derails attention, frustrates some people)
+* surprises due to inconsistencies ([derails attention](principles/attention.md), frustrates some people)
 * endless debates about formatting questions
 * manual code formatting exercises
 

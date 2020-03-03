@@ -20,7 +20,7 @@ It becomes difficult to share standard development configuration (linters, etc.)
 
 You set up CI/CD services multiple times: potentially adding env variables repeatedly, setting permissions, keys, and so on.
 
-When multiple layers change, you need to organize a chain of PRs. First, add a change somewhere, bump the version number, raise a PR, review, wait for a CI run, merge, deploy. Next, you change one consumer's reference, rinse and repeat. It's a long and complicated process requiring human attention all the way. Imagine a five repo change: the chance for mistakes, oversights, merge conflicts - and time spent - raise exponentially.
+When multiple layers change, you need to organize a chain of PRs. First, add a change somewhere, bump the version number, raise a PR, review, wait for a CI run, merge, deploy. Next, you change one consumer's reference, rinse and repeat. It's a long and complicated process requiring [human attention](principles/attention.md) all the way. Imagine a five repo change: the chance for mistakes, oversights, merge conflicts - and time spent - raise exponentially.
 
 Best to nip this in the bud. Use a monorepo unless there is a very substantial technical reason not to.
 
