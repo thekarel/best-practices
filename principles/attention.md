@@ -26,4 +26,4 @@ Without distractions, a good developer becomes a firehose of solutions. Move the
 
 Immersing in your creative task allows you to [experience the Flow](https://www.amazon.co.uk/dp/0712657592/) every day, forever turning a "job" into an enjoyable activity.
 
-<!-- Create and maintain [simple things](simple.md) because they require less attention.  -->
+Create and maintain [simple things](simple.md) because they require less attention.

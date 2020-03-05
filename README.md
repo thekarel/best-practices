@@ -30,6 +30,7 @@ Finally, this document is not a replacement for knowledge of programming languag
     * [Software engineers solve business problems](principles/business.md)
     * [Programming is a social activity](principles/social.md)
     * [Attention is the most precious resource in a project](principles/attention.md)
+    * [Simplicity is the best ally in the long run](principles/simple.md)
 * [Architecture](architecture/architecture.md)
     * [Domain](architecture/domain.md)
     * [Services](architecture/services.md)

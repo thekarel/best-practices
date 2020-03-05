@@ -24,4 +24,4 @@ Currently, popular formatting tools are:
 
 Code formatting should be completely automated (IDEs, coupled with the above tools are very good at it). Asking developers to manually format source code is a vast time-sink -- but obviously, everyone is responsible for keeping the system tidy and readable.
 
-If you have custom requirements, then use a custom plugin for the above tools. Try to keep things simple.
+If you have custom requirements, then use a custom plugin for the above tools. [Try to keep things simple](./principles/simple.md).
