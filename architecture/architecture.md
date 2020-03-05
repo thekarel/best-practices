@@ -5,7 +5,7 @@ Explicitly assign the responsibilities of the system to appropriate modules.
 In a web context, an application is made up of layers, each being closer to the end-user:
 
 * Domain (farthest from the user)
-* Service
+* Services
 * Persistence
 * HTTP
 * UI (closest to the user)
