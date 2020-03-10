@@ -12,4 +12,4 @@ Create a minimal end to end journey as soon as possible. Treat it like a skeleto
 
 Code is a means, not a goal. Writing more doesn't necessarily help. Adding code is not always the answer - keep the priorities in mind.
 
-Clients expect software systems to work for an extended period and also to evolve as requirements change. So we can't be too myopic. But [today has priority over the uncertain future](principles.md).
+Clients expect software systems to work for an extended period and also to evolve as requirements change. So we can't be too myopic. But [today has priority over the uncertain future](today.md).

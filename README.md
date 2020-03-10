@@ -31,6 +31,7 @@ Finally, this document is not a replacement for knowledge of programming languag
     * [Programming is a social activity](principles/social.md)
     * [Attention is the most precious resource in a project](principles/attention.md)
     * [Simplicity is the best ally in the long run](principles/simple.md)
+    * [The only problem to solve is the one we have today](principles/today.md)
 * [Architecture](architecture/architecture.md)
     * [Domain](architecture/domain.md)
     * [Services](architecture/services.md)
