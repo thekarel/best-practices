@@ -22,6 +22,6 @@ It's worth stressing that the information to understand the codebase has to come
 
 Embrace the power of the [type system](../typescript.md): clear interface annotation eliminates the need for a whole suite of documentation that you wish to add separately.
 
-Write declarative code that expresses the intent but hides the implementation details. Dedicate one module to one level of abstraction. Your program then becomes a handbook that is easy to read, understand and change.
+Write [declarative code](../declarative.md) that expresses the intent but hides the implementation details. Dedicate one module to one level of abstraction. Your program then becomes a handbook that is easy to read, understand and change.
 
 Develop a shared language, use [names](../naming.md) that make sense to humans and ease communication.

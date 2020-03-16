@@ -2,7 +2,7 @@
 
 You don't need comments in the code.
 
-Shapes, classes, call signatures are [self-documenting in TypeScript](typescript.md). Clear names explain what is what. Declarative code is easy to read and reveal the flow of control and data without the prose.
+Shapes, classes, call signatures are [self-documenting in TypeScript](typescript.md). Clear names explain what is what. [Declarative code](declarative.md) is easy to read and reveal the flow of control and data without the prose.
 
 There is always a better way, then adding comments. Comments rarely solve problems.
 

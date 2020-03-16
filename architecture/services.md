@@ -8,7 +8,7 @@ Services add activity to the [domain module](domain.md). They are the affordance
 
 The services also encapsulate the *business rules* relevant to activities.
 
-For example, the booking app above will contain a `BookingService` class with a method to create a booking. This method then encapsulates the validation and describes the side effects (save booking, send notifications), and it should be highly declarative and read like a recipe.
+For example, the booking app above will contain a `BookingService` class with a method to create a booking. This method then encapsulates the validation and describes the side effects (save booking, send notifications), and it should be [highly declarative](../declarative.md) and read like a recipe.
 
 Services are best implemented as classes because they hold dependencies in the state.
 

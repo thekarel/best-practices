@@ -12,6 +12,6 @@ Use a [type generator](https://github.com/dotansimha/graphql-code-generator) to 
 
 ### Declarative UI
 
-There are many great UI libraries and frameworks today. React is suggested here because it's a *declarative* and *functional* solution.
+There are many great UI libraries and frameworks today. React is suggested here because it's a *[declarative](../declarative.md)* and *functional* solution.
 
 See [thekarel/best-practices-example](https://github.com/thekarel/best-practices-example) for examples.

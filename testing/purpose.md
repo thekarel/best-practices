@@ -14,6 +14,6 @@ Implement three types of automated tests, in order of importance:
 
 Sacrifice the lower priority tests if your resources are limited.
 
-Treat tests as proper code, do not take shortcuts: be declarative, type-safe, lint - stick to the good practices.
+Treat tests as proper code, do not take shortcuts: [be declarative](../declarative.md), type-safe, lint - stick to the good practices.
 
 Tests will usually require similar data across multiple test instances and types. Maintain a single source for the different types of test data, so that you can update it in one go. For anything non-trivial a type-safe factory is suggested (for example [factory-ts](https://www.npmjs.com/package/factory.ts)).

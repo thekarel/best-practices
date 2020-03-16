@@ -49,6 +49,7 @@ Finally, this document is not a replacement for knowledge of programming languag
 
 ## Source code
 
+* [Declarative programming](declarative.md)
 * [The README](theReadme.md)
 * [Modules](modules.md)
 * [Folder structure](folderStructure.md)
